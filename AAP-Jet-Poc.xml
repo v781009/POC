@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AAP-Jet-Poc</name>
+    </assembly>
+    <members>
+        <member name="M:AAP_Jet_Poc.Controllers.WeatherForecastController.Get">
+            <summary>
+            get Weather Forecast
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AAP_Jet_Poc.Controllers.WeatherForecastController.Add(System.Int32,System.Int32)">
+            <summary>
+            add 2 numbers
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AAP_Jet_Poc.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            ConfigureServices
+            </summary>
+            <param name="services"></param>
+        </member>
+    </members>
+</doc>
